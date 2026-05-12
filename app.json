@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Family Safety",
+    "slug": "family-safety-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f1f5f9"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.familysafety.app"
+    },
+    "android": {
+      "package": "com.familysafety.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#f1f5f9"
+      }
+    }
+  }
+}
